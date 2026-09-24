@@ -202,7 +202,7 @@ Data Analyst | Power BI • Python • SQL • R • Tableau
 
 
 📧 swapnilpandey20102003@gmail.com 
-🔗 [LinkedIn]()  
+🔗 [LinkedIn](https://www.linkedin.com/in/swapnil-pandey-982b2b295/)  
 🐙 [GitHub]()
 
 ---
