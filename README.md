@@ -1,5 +1,12 @@
 # 📊 Power BI Sales & Performance Dashboard — FY 2026
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1?logo=mysql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Sales%20Insights-2E7D32)
+
 **End-to-end sales analytics project** built on a real 10,000-row dataset covering India retail operations (Jan–Apr 2026). Covers data generation, cleaning, exploratory analysis, and interactive dashboard design.
 
 ---
